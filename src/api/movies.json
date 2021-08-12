@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "Name": "A",
+      "rating": 8.3,
+      "overview": "Lorem ipsum dolor",
+      "image": "https://picsum.photos/id/1027/200/300"
+    },
+    {
+      "id": 3,
+      "Name": "C",
+      "rating": 8.9,
+      "overview": "Lorem ipsum dolor",
+      "image": "https://picsum.photos/id/1071/200/300"
+    },
+    {
+      "id": 4,
+      "Name": "D",
+      "rating": 8,
+      "overview": "Lorem ipsum dolor",
+      "image": "https://picsum.photos/id/1059/200/300"
+    },
+    {
+      "id": 5,
+      "Name": "E",
+      "rating": 7.3,
+      "overview": "Lorem ipsum dolor",
+      "image": "https://picsum.photos/id/1074/200/300"
+    },
+    {
+      "id": 6,
+      "Name": "F",
+      "rating": 9.3,
+      "overview": "Lorem ipsum dolor",
+      "image": "https://picsum.photos/id/1073/200/300"
+    }
+  ]
+}
