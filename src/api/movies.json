@@ -1,39 +1,67 @@
 {
   "movies": [
     {
-      "id": 1,
-      "Name": "A",
-      "rating": 8.3,
-      "overview": "Lorem ipsum dolor",
-      "image": "https://picsum.photos/id/1027/200/300"
+      "name": "The Pianist (2002)",
+      "rating": "8.5",
+      "overview": "Wladyslaw Szpilman, Polonyalı başarılı bir piyanisttir. İkinci dünya savaşı başladıktan sonra Almanların Polonya'yı işgali sonrası Musevi olduğu için toplama kampına gitmekten kurtulur. Acı ve sefillik içerisinde Alman bir subayın yardımı ile değişir.",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eevpqu8k8a1162b07a5.jpg?v=2.7",
+      "id": 7
     },
     {
-      "id": 3,
-      "Name": "C",
-      "rating": 8.9,
-      "overview": "Lorem ipsum dolor",
-      "image": "https://picsum.photos/id/1071/200/300"
+      "name": "Harry Potter 3 the Prisoner of Azkaban (2004)",
+      "rating": "7.9",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eevuv8787a1162b07a5.jpg?v=2.7",
+      "overview": "Kötü Marge hala gece havada süzülmeye başladığında, Harry Hogwarts'daki 3. yılında neler olacağını düşünmeye başlar. \"Hızır Otobüs\"le yaptığı yorucu yolculuk onu Diagon Yolu'na getirir ve burada hapishane kaçkını Sirius Black'in kendisi için geldiğini öğrenir. Böylece yeni okul dönemi başlar. Hogwarts'ta Harry ve arkadaşları bir Hipogrif'e yaklaşmanın hassas sanatını, şekil değiştiren böcürtleri, hatta zamanda nasıl geriye gidileceğini ve patronus büyüsünü öğrenirler. Lanete hizmet eden bir kişi kale duvarlarının içinde gizlenirken, ruh emiciler okulun üzerinde dolaşıp Harry'yi tehdit etmektedir ve Harry tüm bunlara karşı koymak zorunda kalır. Alfonso Cuarón'un yönettiği film ve J.K Rowling'in 3.kitabından uyarlanmıştır.",
+      "id": 8
     },
     {
-      "id": 4,
-      "Name": "D",
-      "rating": 8,
-      "overview": "Lorem ipsum dolor",
-      "image": "https://picsum.photos/id/1059/200/300"
+      "name": "The Lord of the Rings 1 The Fellowship of the Ring (2001)",
+      "rating": "8.8",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eev7pvkuka1162b07a5.jpg?v=2.7",
+      "overview": "İyi ile kötü arasındaki mücadelenin yer aldığı filmin ilk serisinde Sauron'un Yüzüğü'nü yok etmek üzere Frodo, hobbitlere ait huzur dolu harika köyünden ayrılı Frodo Baggins ve Mordor'un bu tehlikeli yolculuğunda karanlık uçurumlara kadar devam etmektedir.  ",
+      "id": 9
     },
     {
-      "id": 5,
-      "Name": "E",
-      "rating": 7.3,
-      "overview": "Lorem ipsum dolor",
-      "image": "https://picsum.photos/id/1074/200/300"
+      "name": "Lucy (2014)",
+      "rating": " 6.4",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eep5kpkupa1162b07a5.jpg?v=2.7",
+      "overview": "Tayvan'daki Amerikalı bir genç istemeden uyuşturucu taşıyıcısı olur. Yüksek teknolojili uyuşturucu taşıyarak insan üstü güçler kazanır.",
+      "id": 10
     },
     {
-      "id": 6,
-      "Name": "F",
-      "rating": 9.3,
-      "overview": "Lorem ipsum dolor",
-      "image": "https://picsum.photos/id/1073/200/300"
+      "name": "Titanic (1997)",
+      "rating": "7.8",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eev7pvuu5a1162b07a5.jpg?v=2.7",
+      "overview": "Teknolojinin son sürat ilerliyordu. İnsanlar harika işler çıkarıyordu. Titanic adındaki bu dev gemi insanların doğaya tanrılara gösterdiği gövde gösterisidir. Tanrının bile batıramayacağı söylenen gemi gerçekten öyle miydi? Bütün detayları ile harika olan filmde sınıf farklılıklarına göre yaşanan aşlar, sınıf farklılıklarına göre yaşama öncelikleri gibi hayatın içerisinden birçok kesit bulunmakta. Prodüksiyonu çok maliyetli olan film çok fazla ödül kazanmıştır.",
+      "id": 11
+    },
+    {
+      "name": "Memento (2000)",
+      "rating": "8.4",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eevpvo788a1162b07a5.jpg?v=2.7",
+      "overview": "Leonard Shelby ucuz otel odalarında konaklayan, yalnızca nakit para kullanan fakat şık giysiler giyen, Jaguar kullanan iş adamı görüntüsünde biridir. Ama aslında hayatını karısına tecavüz edip öldüren kişiyi bulmaya adamıştır. Leonard'ın bu yolda önemli bir engeli bulunmaktadır; çok ender rastlanan ve tedavi edilemeyen bir tür hafıza kaybı. Her ne kadar hayatının \"kaza\"'dan önceki dönemlerini hatırlayabiliyorsa da, bazen on beş dakika öncesinde nereye gittiğini ve nerede olduğunu unutabilmektedir.",
+      "id": 12
+    },
+    {
+      "name": "Fury (2014)",
+      "rating": "7.6",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eepk7u75va1162b07a5.jpg?v=2.7",
+      "overview": "1945 yılının Nisan ayında İkinci Dünya Savaşı?nın son ayları. Avrupa Cephesi'nde müttefikler son kozlarını oynarken, savaş ile yoğrulmuş ordu çavuşu Wardaddy (Brad Pitt), bir Sherman tankını yönetmektedir ve düşman hattı ardında ölümcül bir vazife üstlenen beş kişilik bir ekibi vardır. Çok az sayıda ve yeterince silahı olmayan Wardaddy ve adamları, Nazi Almanya?sının kalbini vurmak için kahramanlıkları içinde tehlikeye atılmaktadır.",
+      "id": 13
+    },
+    {
+      "name": "It 1 (2017)",
+      "rating": "7.3",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8ee7uow858a1162b07a5.jpg?v=2.7",
+      "overview": "O (It), dünyaca tanınmış korku romanları yazarı Stephen King?in 10 senerdir okuyucularını korkutan, aynı isimli popüler romanından beyazperdeye uyarlandı. Maine'in küçük bir kasabasında yaşayan 7 çocuğu ele alıyor. Bu yedi arkadaş okulda dışlanan bir gruptur. Fakat en büyük meseleleri bu değildir. Arkadaşlar bir yandan hayatın getirdiği meselelerle, bir yandan da ergenlikle uğraşırken, başlarına beklemedikleri bir bela daha açılır. Kurbanlarının korkularına göre şekle girebilen Pennywise.",
+      "id": 14
+    },
+    {
+      "name": "Pulp Fiction (1994)",
+      "rating": "8.9",
+      "imageURL": "https://images-720pizle-net.cdn.ampproject.org/i/s/images.720pizle.net/images/movie/poster/300/430/100/b47b8eev77vo7pa1162b07a5.jpg?v=2.7",
+      "overview": "Ödül avcısı Butch Coolidge şeytanla yaptığı bir anlaşmada ödemeyi durdurmaya karar verir. Honey Bunny ve Pumpkin, hayatlarına biraz hareket katmak isteyen genç ve birbirlerine aşık bir çift soyguncudur. Bu arada iki işi iyi bilen gangster, Vincent Vega ve Jules, günlük işlerinden biri olarak,patronlarına ödemeyi geciktiren bir kaç sahtekar genci vurmaya giderler. Vincent patronun genç ve güzel karısına bebek bakıcılığı yapmakla da görevlendirilirken ortağı suç yaşamına son vermeye karar verir. Gözüpek bir boksör ise nakit karşılığı hile yapmayı redderek şehirden kaçar. Kader bu aykırı tipleri mutheşem bir raslantı sonucu bir araya getirecektir. ",
+      "id": 15
     }
   ]
 }
